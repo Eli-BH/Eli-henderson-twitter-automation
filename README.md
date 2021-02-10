@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://assets.teenvogue.com/photos/56b4f21327a088e24b967bb6/3:2/w_531,h_354,c_limit/twitter-gifs.gif" alt="Twitter Bot logo"></a>
+ <img width=400px height=200px src="https://assets.teenvogue.com/photos/56b4f21327a088e24b967bb6/3:2/w_531,h_354,c_limit/twitter-gifs.gif" alt="Twitter Bot logo"></a>
 </p>
 
 <h3 align="center">Twitter Automation Bot</h3>
