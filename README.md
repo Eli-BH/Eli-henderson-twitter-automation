@@ -32,7 +32,7 @@ The bot is set up in a way that it will like, retweet, and follow anyone that po
 The bot also allow the user to post as normal. 
 
 <p align="center">
-<img src="https://i.imgur.com/Htu1EIO.jpg" alt="example retweet" width=200px height=200px>
+<img src="https://i.imgur.com/Htu1EIO.jpg" alt="example retweet" width=600px height=400px>
 </p>
 
 The entire bot is written in Python 3.6
